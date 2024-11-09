@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaquinaCafe", "MaquinaCafe\MaquinaCafe.csproj", "{F48D272B-4018-4C88-BD79-C4165742CE9E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MaquinaCafe (1)", "MaquinaCafe", "{977BA93A-3790-42B7-ADB2-C163EE41E3AB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaquinaCafe.Tests", "MaquinaCafe\MaquinaCafe.Tests\MaquinaCafe.Tests.csproj", "{2730E14E-14FA-40CD-92B7-563ED697FE6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F48D272B-4018-4C88-BD79-C4165742CE9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F48D272B-4018-4C88-BD79-C4165742CE9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F48D272B-4018-4C88-BD79-C4165742CE9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F48D272B-4018-4C88-BD79-C4165742CE9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2730E14E-14FA-40CD-92B7-563ED697FE6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2730E14E-14FA-40CD-92B7-563ED697FE6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2730E14E-14FA-40CD-92B7-563ED697FE6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2730E14E-14FA-40CD-92B7-563ED697FE6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2730E14E-14FA-40CD-92B7-563ED697FE6F} = {977BA93A-3790-42B7-ADB2-C163EE41E3AB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A02BA2A2-B62C-47AA-B4FA-786EB678FE29}
+	EndGlobalSection
+EndGlobal

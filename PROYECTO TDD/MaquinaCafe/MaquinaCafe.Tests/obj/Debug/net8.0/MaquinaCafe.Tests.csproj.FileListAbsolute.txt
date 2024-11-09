@@ -1,0 +1,5 @@
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 7\ADM De Proyectos De Software\PROYECTO TDD\MaquinaCafe\MaquinaCafe.Tests\obj\Debug\net8.0\MaquinaCafe.Tests.csproj.AssemblyReference.cache
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 7\ADM De Proyectos De Software\PROYECTO TDD\MaquinaCafe\MaquinaCafe.Tests\obj\Debug\net8.0\MaquinaCafe.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 7\ADM De Proyectos De Software\PROYECTO TDD\MaquinaCafe\MaquinaCafe.Tests\obj\Debug\net8.0\MaquinaCafe.Tests.AssemblyInfoInputs.cache
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 7\ADM De Proyectos De Software\PROYECTO TDD\MaquinaCafe\MaquinaCafe.Tests\obj\Debug\net8.0\MaquinaCafe.Tests.AssemblyInfo.cs
+C:\Gabriel Arnaldo Pozo Tavarez\ITLA\Cuatrimestre 7\ADM De Proyectos De Software\PROYECTO TDD\MaquinaCafe\MaquinaCafe.Tests\obj\Debug\net8.0\MaquinaCafe.Tests.csproj.CoreCompileInputs.cache
